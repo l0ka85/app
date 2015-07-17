@@ -2,5 +2,6 @@
 phpinfo();
 echo "srinfo";
 echo "po zjebaniu echo";
-
+echo "sram gownem w srodku";
 echo 'lukasz';
+echo "sram gownem na koncu";
