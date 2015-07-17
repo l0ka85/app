@@ -6,3 +6,4 @@ echo "sram gownem w srodku";
 echo 'lukasz';
 echo "sram gownem na koncu";
 echo 'luksz2';
+echo "zmiana na moiim branczu";
